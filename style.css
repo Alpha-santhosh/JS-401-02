@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.box{
+    padding:  5px 15px;
+    border: 1.9px solid black;
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+button{
+    padding:  8px 18px;
+    border: 1px solid black;
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.blue{
+    background-color: blue;
+    color: white;
+}
+.palevioletred{
+    background-color: palevioletred;
+    color: white;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+.lime{
+    background-color: lime;
+    color: white;
+}
